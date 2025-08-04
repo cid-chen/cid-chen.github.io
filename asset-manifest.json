@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4efb37a3.css",
+    "main.js": "/static/js/main.c7efb9dd.js",
+    "static/js/852.e386c163.chunk.js": "/static/js/852.e386c163.chunk.js",
+    "static/js/158.deff2e96.chunk.js": "/static/js/158.deff2e96.chunk.js",
+    "static/js/24.2d32e3d6.chunk.js": "/static/js/24.2d32e3d6.chunk.js",
+    "static/js/319.9954ce5f.chunk.js": "/static/js/319.9954ce5f.chunk.js",
+    "static/js/180.c49963f0.chunk.js": "/static/js/180.c49963f0.chunk.js",
+    "static/js/825.ffdece67.chunk.js": "/static/js/825.ffdece67.chunk.js",
+    "static/js/604.39e89cc2.chunk.js": "/static/js/604.39e89cc2.chunk.js",
+    "static/js/55.52cf9f8b.chunk.js": "/static/js/55.52cf9f8b.chunk.js",
+    "static/js/252.57bcb728.chunk.js": "/static/js/252.57bcb728.chunk.js",
+    "static/js/833.3eb10090.chunk.js": "/static/js/833.3eb10090.chunk.js",
+    "static/js/733.c5a2a361.chunk.js": "/static/js/733.c5a2a361.chunk.js",
+    "static/js/902.65ac6f15.chunk.js": "/static/js/902.65ac6f15.chunk.js",
+    "static/js/111.6806aac7.chunk.js": "/static/js/111.6806aac7.chunk.js",
+    "static/js/134.3a9ef83a.chunk.js": "/static/js/134.3a9ef83a.chunk.js",
+    "static/js/53.eef55819.chunk.js": "/static/js/53.eef55819.chunk.js",
+    "static/js/998.899ec4c0.chunk.js": "/static/js/998.899ec4c0.chunk.js",
+    "static/js/867.120f216b.chunk.js": "/static/js/867.120f216b.chunk.js",
+    "static/js/106.a11becf1.chunk.js": "/static/js/106.a11becf1.chunk.js",
+    "static/js/437.116bb4fe.chunk.js": "/static/js/437.116bb4fe.chunk.js",
+    "static/js/854.ef604811.chunk.js": "/static/js/854.ef604811.chunk.js",
+    "static/js/187.1b74c366.chunk.js": "/static/js/187.1b74c366.chunk.js",
+    "static/js/367.51d23b68.chunk.js": "/static/js/367.51d23b68.chunk.js",
+    "static/js/216.6a08946b.chunk.js": "/static/js/216.6a08946b.chunk.js",
+    "static/js/329.d954c697.chunk.js": "/static/js/329.d954c697.chunk.js",
+    "static/js/929.cbeb7f27.chunk.js": "/static/js/929.cbeb7f27.chunk.js",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.4efb37a3.css",
+    "static/js/main.c7efb9dd.js"
+  ]
+}
