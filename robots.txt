@@ -1,0 +1,6 @@
+﻿# https://www.robotstxt.org/robotstxt.html
+
+User-agent: *
+
+
+Sitemap: https://reactmvvm.org/sitemap.xml
